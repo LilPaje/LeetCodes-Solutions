@@ -4,7 +4,8 @@ This repo is basically some solutions i wrote on leet code. Some are 0ms (the "C
 
 The Repo is divided by Difficulty, i'm Planning to divide the solutions in also by language, but let future me do this work.
 
-Links: 
+My Links:
 - LeetCode: https://leetcode.com/u/Izzzy/
-- Linkedin: https://www.linkedin.com/in/souopjj/
-- YouTube Channel: https://www.youtube.com/@souopjj
+- Linkedin:  https://www.linkedin.com/in/souopjj
+- YouTube: https://www.youtube.com/@souopjj
+- https://play.picoctf.org/users/xxer00
